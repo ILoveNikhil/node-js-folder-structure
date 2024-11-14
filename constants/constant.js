@@ -1,0 +1,1 @@
+//Some Constants used in the server

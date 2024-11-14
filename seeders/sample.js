@@ -1,0 +1,1 @@
+// sample.js is a sample seeder file change it to your own seeder file name
